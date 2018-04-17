@@ -266,7 +266,7 @@ header ul {
 
 header li {
 	list-style-type: none;
-  width:260;
+  width:260px;
   height:15px;
 	margin-bottom: 12px;
 	line-height: 1em;
@@ -300,7 +300,6 @@ header li:hover {
 
 a.buttons {
 	-webkit-font-smoothing: antialiased;
-	background: url(../images/arrow-down.png) no-repeat;
 	font-weight: normal;
 	text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
 	padding: 2px 2px 2px 22px;
@@ -320,7 +319,7 @@ a.buttons:hover {
 /* Section - for main page content */
 
 section {
-  width:500;
+  width:500px;
   float:right;
   padding-bottom:50px;
 }
