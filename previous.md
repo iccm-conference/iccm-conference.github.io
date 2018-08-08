@@ -16,7 +16,7 @@ title: ICCM Previous Conferences
 </li><li><a href="http://iccm-conference.org/2010/"><strong>ICCM 2010</strong></a>: Philadelphia, USA (<a href="http://iccm-conference.org/2010/proceedings/">proceedings</a>)
 </li><li><b>ICCM 2009</b>: Manchester, UK (<a href="https://iccm-conference.neocities.org/2009/proceedings/">proceedings</a>)
 </li><li><a href="https://iccm-conference.neocities.org/2007/"><strong>ICCM 2007</strong></a>: Ann Arbor, USA (<a href="https://iccm-conference.neocities.org/2007/iccm_2007_proceedings_and_papers.html">proceedings</a>)
-</li><li><a href="https://iccm-conference.neocities.org/2006/"><strong>ICCM 2006</strong></a>: Trieste, Italy (<a href="https://iccm-conference.neocities.org/2006/proceedings/">proceedings</a>)
+</li><li><a href="https://iccm-conference.neocities.org/2006/"><strong>ICCM 2006</strong></a>: Trieste, Italy (<a href="https://drive.google.com/file/d/1opfZUB4pJCNT2QQn39k2Z2lq94hx83EN/view?usp=sharing">proceedings</a>)
 </li><li><a href="https://iccm-conference.neocities.org/2004/"><strong>ICCM 2004</strong></a>: Pittsburgh, USA (<a href="https://iccm-conference.neocities.org/2004/proceedings/schedule.htm">proceedings</a>)
 </li><li>ICCM 2003: Bamberg, Germany
 </li><li><a href="https://iccm-conference.neocities.org/2001/"><strong>ICCM 2001</strong></a>: Fairfax, USA
