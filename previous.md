@@ -19,6 +19,6 @@ title: ICCM Previous Conferences
 </li><li>ICCM 2003: Bamberg, Germany
 </li><li><a href="https://iccm-conference.neocities.org/2001/"><strong>ICCM 2001</strong></a>: Fairfax, USA
 </li><li><a href="https://iccm-conference.neocities.org/2000/"><strong>ICCM 2000</strong></a>: Groningen, Netherlands
-</li><li><a href="http://acs.ist.psu.edu/nottingham/eccm98/home.html"><strong>ECCM 98</strong></a>: Nottingham, UK (<a href="http://acs.ist.psu.edu/papers/eccm98/">proceedings</a>)
+</li><li><a href="https://iccm-conference.neocities.org/1998/"><strong>ECCM 98</strong></a>: Nottingham, UK (<a href="https://iccm-conference.neocities.org/1998/proceedings">proceedings</a>)
 </li><li>EuroCog 1996: Berlin, Germany
 </li></ul>
