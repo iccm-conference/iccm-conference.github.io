@@ -5,15 +5,13 @@ title: ICCM Previous Conferences
 
 # Previous Conferences
 
-### Warning: Some of these archived previous conferences are currently offline as we are moving our server to a new machine.
-
 <ul><li><a href="http://mathpsych.org/conferences/2018/"><strong>ICCM 2018</strong></a>:  Madison, USA (<a href="http://acs.ist.psu.edu/iccm2018/ICCM%202018%20Proceedings.pdf">proceedings</a>)
 </li><li><a href="https://iccm-conference.neocities.org/2017/"><strong>ICCM 2017</strong></a>:  Warwick, UK (<a href="https://iccm-conference.neocities.org/2017/ICCMprogram_files/proceedingscombined.pdf">proceedings</a>)
 </li><li><a href="https://iccm-conference.neocities.org/2016/"><strong>ICCM 2016</strong></a>: Penn State, USA (<a href="https://iccm-conference.neocities.org/2016/proceedings/">proceedings</a>)
 </li><li><a href="https://iccm-conference.neocities.org/2015/"><strong>ICCM 2015</strong></a>: Groningen, Netherlands (<a href="https://iccm-conference.neocities.org/2015/schedule/proceedings/">proceedings</a>)
 </li><li><a href="https://iccm-conference.neocities.org/2013/"><strong>ICCM 2013</strong></a>: Ottawa, Canada (<a href="https://iccm-conference.neocities.org/2013/proceedings/">proceedings</a>)
-</li><li><a href="http://iccm-conference.org/2012/"><strong>ICCM 2012</strong></a>: Berlin, Germany (<a href="http://iccm-conference.org/2012/proceedings/">proceedings</a>)
-</li><li><a href="http://iccm-conference.org/2010/"><strong>ICCM 2010</strong></a>: Philadelphia, USA (<a href="http://iccm-conference.org/2010/proceedings/">proceedings</a>)
+</li><li><a href="https://iccm-conference.neocities.org/2012/"><strong>ICCM 2012</strong></a>: Berlin, Germany (<a href="http://iccm-conference.neocities.org/2012/proceedings/">proceedings</a>)
+</li><li><a href="http://iccm-conference.neocities.org/2010/"><strong>ICCM 2010</strong></a>: Philadelphia, USA (<a href="http://iccm-conference.neocities.org/2010/proceedings/">proceedings</a>)
 </li><li><b>ICCM 2009</b>: Manchester, UK (<a href="https://iccm-conference.neocities.org/2009/proceedings/">proceedings</a>)
 </li><li><a href="https://iccm-conference.neocities.org/2007/"><strong>ICCM 2007</strong></a>: Ann Arbor, USA (<a href="https://iccm-conference.neocities.org/2007/iccm_2007_proceedings_and_papers.html">proceedings</a>)
 </li><li><a href="https://iccm-conference.neocities.org/2006/"><strong>ICCM 2006</strong></a>: Trieste, Italy (<a href="https://drive.google.com/file/d/1opfZUB4pJCNT2QQn39k2Z2lq94hx83EN/view?usp=sharing">proceedings</a>)
