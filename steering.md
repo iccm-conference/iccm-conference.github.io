@@ -11,11 +11,6 @@ title: ICCM Steering Committee
 <ul><li>task control, multitasking, and sequencing
 </li></ul><p><b>Affiliations:</b> <a href="http://www.bbk.ac.uk/psychology/">Department of Psychological Sciences</a>, <a href="http://www.bbk.ac.uk/">Birkbeck University of London</a>
 </p></td>
-</tr><tr><td><img width="150" src="images/DaniloFum.jpg" /></td>
-<td><b>Danilo Fum</b> (<a href="mailto:fum@units.it">fum@units.it</a>)
-<ul><li>memory and reinforcement
-</li></ul><p><b>Affiliations:</b> <a href="http://labsico.units.it">Laboratorio di Sistemi Cognitivi</a>, <a href="http://www.units.it/">University of Trieste</a>
-</p></td>
 </tr><tr><td><img width="150" src="images/WayneGray.jpeg" /></td>
 <td><b>Wayne Gray</b> (<a href="mailto:grayw@rpi.edu">grayw@rpi.edu</a>)
 <ul><li>interactive routines for goal-directed cognition
@@ -30,11 +25,6 @@ title: ICCM Steering Committee
 <td><b>Andrew Howes</b> (<a href="mailto:HowesA@cs.bham.ac.uk">HowesA@cs.bham.ac.uk</a>)
 <ul><li>cognitive control and human-computer interaction
 </li></ul><p><b>Affiliations:</b> <a href="http://www.cs.bham.ac.uk/">School of Computer Science</a>, <a href="http://www.birmingham.ac.uk">University of Birmingham</a>
-</p></td>
-</tr><tr><td><img width="150" src="images/BoichoKokinov.jpeg" /></td>
-<td><b>Boicho Kokinov</b> (<a href="mailto:bkokinov@nbu.bg">bkokinov@nbu.bg</a>)
-<ul><li>parallel and emergent models of anology, deduction, and generalization
-</li></ul><p><b>Affiliations:</b> <a href="http://www.nbu.bg/cogs/">Center for Cognitive Science</a>, <a href="http://www.nbu.bg/">New Bulgarian University</a>
 </p></td>
 </tr><tr><td><img width="150" src="images/JohnLaird.jpeg" /></td>
 <td><b>John Laird</b> (<a href="mailto:laird@umich.edu">laird@umich.edu</a>)
@@ -95,10 +85,5 @@ title: ICCM Steering Committee
 <ul><li>SGOMS modelling for sociotechnical systems
 </li><li>emotions in ACT-R
 </li></ul><p><b>Affiliations:</b> <a href="http://ccmhome.blogspot.ca/">Carleton Cognitive Modelling Lab</a>, <a href="http://www5.carleton.ca/ics/">Institute of Cognitive Science</a>, <a href="http://carleton.ca/">Carleton University</a>
-</p></td>
-</tr><tr><td><img width="150" src="images/RichardYoung.jpeg" /></td>
-<td><b>Richard Young</b> (<a href="mailto:r.m.young@acm.org">r.m.young@acm.org</a>) 
-<ul><li>complex tasks and human error
-</li></ul><p><b>Affiliations:</b> <a href="http://www.ucl.ac.uk/uclic/people/r_young/">UCL Interaction Centre</a>, <a href="http://www.ucl.ac.uk/">University College London</a>
 </p></td>
 </tr></table>
