@@ -7,6 +7,8 @@ title: ICCM Next Conference
 
 ICCM 2019 will be held in Montreal, Canada, from July 19-22, 2019.  The main website is: [http://mathpsych.org/conferences/2019/](http://mathpsych.org/conferences/2019/)
 
+- Proceedings: [https://iccm-conference.neocities.org/2019/proceedings/index.html](https://iccm-conference.neocities.org/2019/proceedings/index.html)
+
 
 
 # Submission Information
