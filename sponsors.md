@@ -7,15 +7,15 @@ title: ICCM Sponsors
 
 <table>
 
-<tr><td><center><img width="150px" src="images/elsevier.jpg" /></center></td>
+<tr><td><center><img width="150px" src="images/elsevier.png" /></center></td>
 <td><a href="https://www.elsevier.com/">Elsevier</a></td>
 <td>2018, 2019</td></tr>
 
-<tr><td><center><img width="150px" src="images/aijournal.jpg" /></center></td>
+<tr><td><center><img width="150px" src="images/aijournal.png" /></center></td>
 <td><a href="https://www.journals.elsevier.com/artificial-intelligence">Artificial Intelligence Journal</a></td>
 <td>2017, 2019</td></tr>
 
-<tr><td><center><img width="150px" src="images/springer.jpg" /></center></td>
+<tr><td><center><img width="150px" src="images/springer.gif" /></center></td>
 <td><a href="https://www.springer.com/">Springer</a></td>
 <td>2018</td></tr>
 
