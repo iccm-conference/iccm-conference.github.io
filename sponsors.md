@@ -27,6 +27,27 @@ title: ICCM Sponsors
 <td><a href="http://www.onr.navy.mil/">Office of Naval Research</a></td>
 <td>2001, 2004, 2006, 2007, 2010, 2017</td></tr>
 
+<tr><td><center><img width="150px" src="images/pennstate.png" /></center></td>
+<td><a href="https://ist.psu.edu/">College of Information Sciences and Technology</a></td>
+<td>2016</td></tr>
+
+<tr><td><center><img width="150px" src="images/nsf.jpg" /></center></td>
+<td><a href="http://www.nsf.gov/">National Science Foundation</a></td>
+<td>2001, 2004, 2007, 2010, 2016</td></tr>
+
+<tr><td><center><img width="150px" src="images/cra.gif" /></center></td>
+<td><a href="http://www.cra.com/">Charles River Analytics</a></td>
+<td>2007, 2016</td></tr>
+
+<tr><td><center><img width="150px" src="images/soar.jpg" /></center></td>
+<td><a href="http://www.soartech.com/">Soar Technology</a></td>
+<td>2007, 2009, 2016</td></tr>
+
+<tr><td><center><img width="150px" src="images/caffeinezone.gif" /></center></td>
+<td><a href="http://caffeinezone.net/">caffeinezone.net</a></td>
+<td>2016</td></tr>
+
+
 <tr><td><center><img width="150px" src="images/dfg2.jpeg" /></center></td>
 <td><a href="http://www.dfg.de/en/index.jsp">DFG, German Research Foundation</a></td>
 <td>2003, 2012</td>
@@ -48,9 +69,6 @@ title: ICCM Sponsors
 </tr><tr><td><center><img width="150px" src="images/aptima.jpg" /></center></td>
 <td><a href="http://www.aptima.com/">Aptima</a></td>
 <td>2010</td>
-</tr><tr><td><center><img width="150px" src="images/nsf.jpg" /></center></td>
-<td><a href="http://www.nsf.gov/">National Science Foundation</a></td>
-<td>2001, 2004, 2007, 2010</td>
 </tr><tr><td><center><img width="150px" src="images/drexel.jpg" /></center></td>
 <td><a href="http://www.drexel.edu/">Drexel University</a></td>
 <td>2010</td>
@@ -63,9 +81,6 @@ title: ICCM Sponsors
 </tr><tr><td><center><img width="150px" src="images/lisp.jpg" /></center></td>
 <td><a href="http://www.lispworks.com/">LispWorks</a></td>
 <td>2009</td>
-</tr><tr><td><center><img width="150px" src="images/soar.jpg" /></center></td>
-<td><a href="http://www.soartech.com/">Soar Technology</a></td>
-<td>2007, 2009</td>
 </tr><tr><td><center><img width="150px" src="images/ags.jpg" /></center></td>
 <td><a href="http://www.agstechnet.com/">AGS TechNet</a></td>
 <td>2009</td>
@@ -80,9 +95,6 @@ title: ICCM Sponsors
 <td>2007</td>
 </tr><tr><td><center><img width="150px" src="images/usc.jpeg" /></center></td>
 <td><a href="http://www.ict.usc.edu/">Institute of Creative Technology, University of Southern California</a></td>
-<td>2007</td>
-</tr><tr><td><center><img width="150px" src="images/cra.gif" /></center></td>
-<td><a href="http://www.cra.com/">Charles River Analytics</a></td>
 <td>2007</td>
 </tr><tr><td><center><img width="150px" src="images/miur.jpeg" /></center></td>
 <td><a href="http//www.miur.it/">MIUR: Ministero dell'Istruzione, Università e Ricerca</a></td>
