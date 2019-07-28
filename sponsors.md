@@ -6,6 +6,27 @@ title: ICCM Sponsors
 # Sponsors
 
 <table>
+
+<tr><td><center><img width="150px" src="images/elsevier.jpg" /></center></td>
+<td><a href="https://www.elsevier.com/">Elsevier</a></td>
+<td>2018, 2019</td></tr>
+
+<tr><td><center><img width="150px" src="images/aijournal.jpg" /></center></td>
+<td><a href="https://www.journals.elsevier.com/artificial-intelligence">Artificial Intelligence Journal</a></td>
+<td>2017, 2019</td></tr>
+
+<tr><td><center><img width="150px" src="images/springer.jpg" /></center></td>
+<td><a href="https://www.springer.com/">Springer</a></td>
+<td>2018</td></tr>
+
+<tr><td><center><img width="150px" src="images/afosr.jpg" /></center></td>
+<td><a href="http://www.wpafb.af.mil/afrl/afosr/">Air Force Office of Scientific Research</a></td>
+<td>2003, 2004, 2007, 2010, 2017</td></tr>
+  
+<tr><td><center><img width="150px" src="images/onr.jpg" /></center></td>
+<td><a href="http://www.onr.navy.mil/">Office of Naval Research</a></td>
+<td>2001, 2004, 2006, 2007, 2010, 2017</td></tr>
+
 <tr><td><center><img width="150px" src="images/dfg2.jpeg" /></center></td>
 <td><a href="http://www.dfg.de/en/index.jsp">DFG, German Research Foundation</a></td>
 <td>2003, 2012</td>
@@ -21,9 +42,6 @@ title: ICCM Sponsors
 </tr><tr><td><center><img width="150px" src="images/gk.jpg" /></center></td>
 <td><a href="http://www.gk-ev.de/index.en.php">German Society for Cognitive Science (GK)</a></td>
 <td>2012</td>
-</tr><tr><td><center><img width="150px" src="images/afosr.jpg" /></center></td>
-<td><a href="http://www.wpafb.af.mil/afrl/afosr/">Air Force Office of Scientific Research</a></td>
-<td>2003, 2004, 2007, 2010</td>
 </tr><tr><td><center><img width="150px" src="images/afrl_hed.jpg" /></center></td>
 <td><a href="http://www.wpafb.af.mil/afrl/rh/">Air Force Research Laboratory, Human Effectiveness Directorate</a></td>
 <td>2001, 2003, 2004, 2010</td>
@@ -33,9 +51,6 @@ title: ICCM Sponsors
 </tr><tr><td><center><img width="150px" src="images/nsf.jpg" /></center></td>
 <td><a href="http://www.nsf.gov/">National Science Foundation</a></td>
 <td>2001, 2004, 2007, 2010</td>
-</tr><tr><td><center><img width="150px" src="images/onr.jpg" /></center></td>
-<td><a href="http://www.onr.navy.mil/">Office of Naval Research</a></td>
-<td>2001, 2004, 2006, 2007, 2010</td>
 </tr><tr><td><center><img width="150px" src="images/drexel.jpg" /></center></td>
 <td><a href="http://www.drexel.edu/">Drexel University</a></td>
 <td>2010</td>
