@@ -38,5 +38,5 @@ Pictures for the paper awards and Estes award are available. You can find more T
 
 For further information contact:
 
-- Dr. Leslie Blaha, AFRL (US), MathPsych Co-Chair, [leslie.blaha@us.af.mil](leslie.blaha@us.af.mil)
-- Dr. Terry Stewart, NRC (Canada), ICCM Co-Chair, [terrence.stewart@nrc-cnrc.gc.ca](terrence.stewart@nrc-cnrc.gc.ca)
+- Dr. Leslie Blaha, AFRL (US), MathPsych Co-Chair, [leslie.blaha@us.af.mil](mailto:leslie.blaha@us.af.mil)
+- Dr. Terry Stewart, NRC (Canada), ICCM Co-Chair, [terrence.stewart@nrc-cnrc.gc.ca](mailto:terrence.stewart@nrc-cnrc.gc.ca)
