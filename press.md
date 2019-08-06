@@ -7,7 +7,11 @@ title: ICCM Press Releases
 
 For release:  Immediate
 
-The chairs of the MathPsych/ICCM 2019 conference held 18-22 July in Montreal would like to announce the award winners from the conference ceremony held on 21 July 2019.  The next conference will be held in Toronto in July 2020.  The award winners were:
+The chairs of the MathPsych/ICCM 2019 conference held 18-22 July in Montreal would like to announce the award winners from the conference ceremony held on 21 July 2019.  
+
+The next conference will be held in Toronto in July 2020.  
+
+The award winners were:
 
 - Newell Best Student-led Paper Award
   - Roussel Rahman & Wayne Gray, Rensselaer Polytechnic Institute - “SpotLight on Dynamics of individual Learning" https://iccm-conference.neocities.org/2019/proceedings/papers/ICCM2019_paper_43.pdf 
@@ -26,11 +30,11 @@ The chairs of the MathPsych/ICCM 2019 conference held 18-22 July in Montreal wou
 - William K Estes Early Career Award for 2019, two awardees this year:
   - Dora Matzke, University of Amsterdam
   - Joseph Austerweil, University of Wisconsin, Madison
-  Both awardees will give keynote talks and receive their awards at MathPsych/ICCM 2020
+  - Both awardees will give keynote talks and receive their awards at MathPsych/ICCM 2020
 
 MathPsych 2019 featured the keynote presentation by 2018 William K Estes Early Career Award recipient David Kellen, Syracuse University. Twitter post: https://twitter.com/leslieblaha/status/1152643008803811328 
 
-Pictures for the paper awards and Estes award are available. You can find more Twitter posts from the conference at #iccmpsyched if you want to see other potential items of interest.
+Pictures for the paper awards and Estes award are available. You can find more Twitter posts from the conference at #iccmpsyched https://twitter.com/search?q=%23iccmpsyched&src=typd if you want to see other potential items of interest.
 
 For further information contact:
 
