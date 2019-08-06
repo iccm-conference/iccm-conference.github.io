@@ -7,7 +7,7 @@ title: ICCM Press Releases
 
 For release:  Immediate
 
-The chairs of the MathPsych/ICCM 2019 conference held 18-22 July in Montreal would like to announce the award winners from the conference ceremony held on 21 July 2019.  
+The chairs of the [MathPsych/ICCM 2019](http://mathpsych.org/conferences/2019/) conference held 18-22 July in Montreal would like to announce the award winners from the conference ceremony held on 21 July 2019.  
 
 The next conference will be held in Toronto in July 2020.  
 
