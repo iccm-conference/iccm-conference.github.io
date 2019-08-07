@@ -3,9 +3,11 @@ layout: default
 title: ICCM Press Releases
 ---
 
-# 5 August, 2019
+# Press Releases
 
-## MathPsych/ICCM 2019 conference awards announced
+## 5 August, 2019
+
+### MathPsych/ICCM 2019 conference awards announced
 
 For release:  Immediate
 
