@@ -44,6 +44,6 @@ Pictures for the paper awards and Estes award are available. You can find more T
 
 For further information contact:
 
-- Dr. Leslie Blaha, AFRL (US), Society for Math Psych Secretary/Treasurer, [info@mathpsych.org](info@mathpsych.org)
+- Dr. Leslie Blaha, AFRL (US), Society for Math Psych Secretary/Treasurer, [info@mathpsych.org](info@mathpsych.org) 412-268-4156
 - Dr. Joachim Vandekerckhove, UCI (US), MathPsych Conference Chair, [joachim@uci.edu](joachim@uci.edu)
 - Dr. Terry Stewart, NRC (Canada), ICCM Chair, [terrence.stewart@nrc-cnrc.gc.ca](mailto:terrence.stewart@nrc-cnrc.gc.ca)
