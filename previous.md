@@ -5,7 +5,7 @@ title: ICCM Previous Conferences
 
 # Previous Conferences
 
-<ul><li><a href="http://mathpsych.org/conferences/2019/"><strong>ICCM 2019</strong></a>:  Montreal, Canada (<a href="https://iccm-conference.neocities.org/2019/proceedings/index.html">proceedings</a>)
+<ul><li><a href="http://mathpsych.org/conferences/2019/"><strong>ICCM 2019</strong></a>:  Montreal, Canada (proceedings as <a href="https://iccm-conference.neocities.org/2019/proceedings/ICCM2019Proceedings.pdf">single pdf</a> or as <a href="https://iccm-conference.neocities.org/2019/proceedings/index.html">separate html</a>)
 </li><li><a href="http://mathpsych.org/conferences/2018/"><strong>ICCM 2018</strong></a>:  Madison, USA (<a href="https://iccm-conference.neocities.org/2018/proceedings/ICCM%202018%20Proceedings.pdf">proceedings</a>)
 </li><li><a href="http://mathpsych.org/conferences/2017/"><strong>ICCM 2017</strong></a>:  Warwick, UK (<a href="https://iccm-conference.neocities.org/2017/">proceedings</a>)
 </li><li><a href="https://iccm-conference.neocities.org/2016/"><strong>ICCM 2016</strong></a>: Penn State, USA (<a href="https://iccm-conference.neocities.org/2016/proceedings/">proceedings</a>)
