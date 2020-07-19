@@ -5,8 +5,14 @@ title: ICCM Next Conference
 
 # Next Conference
 
-Due to COVID-19, ICCM 2020 will be a virtual online-only event!  We are still figuring out the details of how this will work, but the general structure will be that we will still classify the accepted submissions as either "talks" or "posters" and we will still publish an online proceedings as usual.  For the actual ICCM program, we will ask presenters to pre-record a video presenting their work and we will then have scheduled online times for discussion of the work.  We will also have some online social events.
+Due to COVID-19, ICCM 2020 is a virtual online-only event!  We are again co-located with the Society for Mathematical Psychology meeting http://mathpsych.org/conferences/2020/
 
-The submission deadline is now **May 8th, 2020**.  Our online event will still be co-"located" with the [Society for Mathematical Psychology](http://mathpsych.org/conferences/2020/) meeting, ans submissions are made through their website.  The exact dates for the event are still being decided: it will still be around the original July 25 to July 28 timeframe, but is likely to be spread out over more days in order to simplify scheduling for people attending from different time zones.
+The conference itself is held online at https://virtual.mathpsych.org/
+
+The ICCM talks will be done as pre-recorded 15-minute videos, which will be available for viewing starting on July 20, 2020, along with an online discussion forum for asynchronous questions and answers.  Each day there will be a set of 4-5 talks which are highlighted, and two days later will be the online live question and answer period from 12:00 to 13:00 EDT.
+
+The ICCM posters will be done as pre-recorded 5-minute videos, with an accompanying forum for discussion.
+
+The overall ICCM program, along with links to the papers themselves, is available here: https://iccm-conference.neocities.org/2020/index.html
 
 
