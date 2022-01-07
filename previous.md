@@ -6,6 +6,9 @@ title: ICCM Previous Conferences
 # Previous Conferences
 
 <ul>
+
+<li><a href="http://mathpsych.org/conferences/2021/"><strong>ICCM 2021</strong></a>:  Held online (proceedings as <a href="https://iccm-conference.neocities.org/2021/ICCM2021Proceedings.pdf">single pdf</a> or as <a href="https://iccm-conference.neocities.org/2021/index.html">separate html</a>)
+  
   
 <li><a href="http://mathpsych.org/conferences/2020/"><strong>ICCM 2020</strong></a>:  Held online (proceedings as <a href="https://iccm-conference.neocities.org/2020/ICCM2020Proceedings.pdf">single pdf</a> or as <a href="https://iccm-conference.neocities.org/2020/index.html">separate html</a>)
 
@@ -26,4 +29,6 @@ title: ICCM Previous Conferences
 </li><li><a href="https://iccm-conference.neocities.org/2000/"><strong>ICCM 2000</strong></a>: Groningen, Netherlands
 </li><li><a href="https://iccm-conference.neocities.org/1998/"><strong>ECCM 98</strong></a>: Nottingham, UK (<a href="https://iccm-conference.neocities.org/1998/proceedings">proceedings</a>)
 </li><li>EuroCog 1996: Berlin, Germany
-</li></ul>
+</li>
+
+</ul>
