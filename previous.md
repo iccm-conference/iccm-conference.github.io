@@ -7,7 +7,7 @@ title: ICCM Previous Conferences
 
 <ul>
 
-<li><a href="http://mathpsych.org/conferences/2021/"><strong>ICCM 2021</strong></a>:  Held online (proceedings as <a href="https://iccm-conference.neocities.org/2021/ICCM2021Proceedings.pdf">single pdf</a> or as <a href="https://iccm-conference.neocities.org/2021/index.html">separate html</a>)
+<li><a href="http://mathpsych.org/conferences/2021/"><strong>ICCM 2021</strong></a>:  Held online (proceedings as <a href="http://acs.ist.psu.edu/papers/ICCM2021Proceedings.pdf">single pdf</a> or as <a href="https://iccm-conference.neocities.org/2021/index.html">separate html</a>)
   
   
 <li><a href="http://mathpsych.org/conferences/2020/"><strong>ICCM 2020</strong></a>:  Held online (proceedings as <a href="http://acs.ist.psu.edu/papers/ICCM2021Proceedings.pdf">single pdf</a> or as <a href="https://iccm-conference.neocities.org/2020/index.html">separate html</a>)
