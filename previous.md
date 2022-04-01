@@ -10,7 +10,7 @@ title: ICCM Previous Conferences
 <li><a href="http://mathpsych.org/conferences/2021/"><strong>ICCM 2021</strong></a>:  Held online (proceedings as <a href="http://acs.ist.psu.edu/papers/ICCM2021Proceedings.pdf">single pdf</a> or as <a href="https://iccm-conference.neocities.org/2021/index.html">separate html</a>)
   
   
-<li><a href="http://mathpsych.org/conferences/2020/"><strong>ICCM 2020</strong></a>:  Held online (proceedings as <a href="http://acs.ist.psu.edu/papers/ICCM2021Proceedings.pdf">single pdf</a> or as <a href="https://iccm-conference.neocities.org/2020/index.html">separate html</a>)
+<li><a href="http://mathpsych.org/conferences/2020/"><strong>ICCM 2020</strong></a>:  Held online (proceedings as <a href="http://acs.ist.psu.edu/papers/ICCM2020Proceedings.pdf">single pdf</a> or as <a href="https://iccm-conference.neocities.org/2020/index.html">separate html</a>)
 
 <li><a href="http://mathpsych.org/conferences/2019/"><strong>ICCM 2019</strong></a>:  Montreal, Canada (proceedings as <a href="https://iccm-conference.neocities.org/2019/proceedings/ICCM2019Proceedings.pdf">single pdf</a> or as <a href="https://iccm-conference.neocities.org/2019/proceedings/index.html">separate html</a>)
 </li><li><a href="http://mathpsych.org/conferences/2018/"><strong>ICCM 2018</strong></a>:  Madison, USA (<a href="https://iccm-conference.neocities.org/2018/proceedings/ICCM%202018%20Proceedings.pdf">proceedings</a>)
