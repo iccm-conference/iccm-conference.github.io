@@ -6,7 +6,9 @@ title: ICCM Previous Conferences
 # Previous Conferences
 
 <ul>
+<li><a href="http://mathpsych.org/conferences/2022/"><strong>ICCM 2022</strong></a>:  Toronto, Canada (and online) (proceedings as <a href="https://iccm-conference.neocities.org/2022/index.html">separate html</a>)
 
+  
 <li><a href="http://mathpsych.org/conferences/2021/"><strong>ICCM 2021</strong></a>:  Held online (proceedings as <a href="http://acs.ist.psu.edu/papers/ICCM2021Proceedings.pdf">single pdf</a> or as <a href="https://iccm-conference.neocities.org/2021/index.html">separate html</a>)
   
   
